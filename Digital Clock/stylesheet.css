@@ -1,0 +1,17 @@
+body
+{
+	background-image:url("abc.jpg");
+	background-repeat: no-repeat;
+	color:blue;
+
+}
+.time
+{
+	color:rgb(12,32,200);
+}
+#txt
+{
+	display: inline;
+	text-align: center;
+	margin:20px;
+}
